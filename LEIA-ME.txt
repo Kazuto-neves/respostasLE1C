@@ -1,0 +1,1 @@
+Para você ver o codigo basta trocar a extenção .C Para .txt
