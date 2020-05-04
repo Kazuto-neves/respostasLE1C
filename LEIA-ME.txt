@@ -1,1 +1,1 @@
-Para você ver o codigo basta trocar a extenção .C Para .txt
+voce pode ver o codigo direto do github
